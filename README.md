@@ -3,6 +3,7 @@ A responsive shopping website frontend built using HTML, CSS, and JavaScript.
 # Tech Stack
 - HTML
 - CSS
+- Bootstrap 
 - JavaScript
 - # Live Demo
 https://your-vercel-link-here
