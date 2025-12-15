@@ -44,7 +44,7 @@ body {
 
 /* Hero section styles */
 .hero {
-    background-image: url('photos/bg_1.jpg');
+    background-image: url('./images/bg_1.jpg');
     background-size: cover;
     background-position: center;
     color: #f2f2e6;
@@ -209,3 +209,4 @@ body {
     width: 50%; 
     float: left; 
 }
+
